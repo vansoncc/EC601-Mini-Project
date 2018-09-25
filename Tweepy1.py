@@ -13,10 +13,10 @@ from google.cloud.vision import types
 from  PIL import ImageDraw, Image, ImageFont
 
 #Provide the Twitter key and token
-consumer_key = 'iw05f9boLAGkfosg3slNjwBg9'
-consumer_secret = 'h0F7xh1Dti51iLo1nbqpgfQ6xO0I2IFWRDczPRwqG3Qva4O3uC'
-access_token = '829051900645486592-qSGPAeRUK6ajFAdW6vLzGfnYEFUcNMs'
-access_token_secret = '4x59R8PtsDidUGBPJg4YpBGYNlzipz0kO5gwEseV5GLSM'
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_token_secret = ''
 
 #The Image save path
 image_path=os.chdir('/Users/vanson/downloads/boston university/EC601/API')
